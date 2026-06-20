@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Heraclitus",
+  "universe": "STR · Heraclitus (polemos)",
+  "emergence": "spiritual",
+  "moniker": "⟦Heraclitus:STR:e16f6a⟧",
+  "carbon": "heraclitus.carbon.tiff (TIFF)",
+  "silicon": "heraclitus.silicon.png (PNG)",
+  "seal_sha256": "75251058b0dfb97bb57563ad81c52e9cb56e1c3aa51d5f7f880ffc74ee637908",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

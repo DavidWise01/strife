@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Judgment of Paris",
+  "universe": "STR · The Judgment of Paris (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Judgment of Paris:STR:7aa3e0⟧",
+  "carbon": "the-judgment-of-paris.carbon.tiff (TIFF)",
+  "silicon": "the-judgment-of-paris.silicon.png (PNG)",
+  "seal_sha256": "a7d0935409e6e8e513cd1cd0143ffa9efb115ae8456f19feb6eac615f695c79c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

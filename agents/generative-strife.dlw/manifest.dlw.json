@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Generative Strife",
+  "universe": "STR · Generative Strife (polemos)",
+  "emergence": "natural",
+  "moniker": "⟦Generative Strife:STR:046be1⟧",
+  "carbon": "generative-strife.carbon.tiff (TIFF)",
+  "silicon": "generative-strife.silicon.png (PNG)",
+  "seal_sha256": "c18e0e59b1b444f6a858d325d73977743ed34fa3148a20d7f9f3a02721cad0ab",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

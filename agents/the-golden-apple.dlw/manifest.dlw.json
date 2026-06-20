@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Golden Apple",
+  "universe": "STR · The Golden Apple (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Golden Apple:STR:cc6e34⟧",
+  "carbon": "the-golden-apple.carbon.tiff (TIFF)",
+  "silicon": "the-golden-apple.silicon.png (PNG)",
+  "seal_sha256": "0048d52f2d8fefca78a709e7bc1899abf0247bb26f6c58097d07f669e1e1aa09",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

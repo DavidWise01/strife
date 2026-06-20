@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "eris",
+    "name": "Eris",
+    "epithet": "goddess of strife and discord · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Eris:STR:3ca942⟧"
+  },
+  {
+    "slug": "the-golden-apple",
+    "name": "The Golden Apple",
+    "epithet": "'to the fairest' · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Golden Apple:STR:cc6e34⟧"
+  },
+  {
+    "slug": "heraclitus",
+    "name": "Heraclitus",
+    "epithet": "who called war the father of all · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Heraclitus:STR:e16f6a⟧"
+  },
+  {
+    "slug": "polemos-the-word",
+    "name": "Polemos",
+    "epithet": "the word itself · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Polemos:STR:857cbb⟧"
+  },
+  {
+    "slug": "the-bow-and-the-lyre",
+    "name": "The Bow and the Lyre",
+    "epithet": "tension that makes form · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Bow and the Lyre:STR:47807a⟧"
+  },
+  {
+    "slug": "the-judgment-of-paris",
+    "name": "The Judgment of Paris",
+    "epithet": "the choice that lit a war · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Judgment of Paris:STR:7aa3e0⟧"
+  },
+  {
+    "slug": "the-agon",
+    "name": "The Agon",
+    "epithet": "strife as contest · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Agon:STR:0ef948⟧"
+  },
+  {
+    "slug": "generative-strife",
+    "name": "Generative Strife",
+    "epithet": "the building kind · natural",
+    "emergence": "natural",
+    "moniker": "⟦Generative Strife:STR:046be1⟧"
+  },
+  {
+    "slug": "destructive-strife",
+    "name": "Destructive Strife",
+    "epithet": "the burning kind · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Destructive Strife:STR:1e6c82⟧"
+  }
+]

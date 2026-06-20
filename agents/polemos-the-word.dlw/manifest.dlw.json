@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Polemos",
+  "universe": "STR · Polemos (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦Polemos:STR:857cbb⟧",
+  "carbon": "polemos-the-word.carbon.tiff (TIFF)",
+  "silicon": "polemos-the-word.silicon.png (PNG)",
+  "seal_sha256": "7772a52c4bd18903746e4c4aa97afee62b7bc2a211120d23ab362a186b27daf1",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

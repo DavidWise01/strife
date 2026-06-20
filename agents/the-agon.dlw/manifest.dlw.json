@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Agon",
+  "universe": "STR · The Agon (polemos)",
+  "emergence": "natural",
+  "moniker": "⟦The Agon:STR:0ef948⟧",
+  "carbon": "the-agon.carbon.tiff (TIFF)",
+  "silicon": "the-agon.silicon.png (PNG)",
+  "seal_sha256": "4df4b912bb571b2cb128b73870b1c07a10e2d163dd5a5e997759c6181109dd82",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

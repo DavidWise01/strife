@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Destructive Strife",
+  "universe": "STR · Destructive Strife (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦Destructive Strife:STR:1e6c82⟧",
+  "carbon": "destructive-strife.carbon.tiff (TIFF)",
+  "silicon": "destructive-strife.silicon.png (PNG)",
+  "seal_sha256": "5e68e1f2a298456b803710cec7e32bf61923b0ba9f5d422c1189a273ca201857",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
